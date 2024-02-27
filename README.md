@@ -11,3 +11,4 @@
 ## 🖥 &nbsp;Rewards 📘
 
 ![](https://github-profile-trophy.vercel.app/?username=leleo9&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=leleo9&repo=OptiDrive&&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=800080)](https://github.com/Buehno/OptiDrive)[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=leleo9&repo=web-OptiDrive&title_color=fff&icon_color=9f9f9f&text_color=ffffff&bg_color=800080)](https://github.com/Buehno/web-OptiDrive)

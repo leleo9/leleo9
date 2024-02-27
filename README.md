@@ -8,3 +8,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=leleo9&theme=bear&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leleo9&theme=bear&hide_border=false" alt="cxyfreedom" /></p><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leleo9&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact"alt="cxyfreedom" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=leleo9&theme=bear&bg_color=20232a&hide_border=true" width="100%"/>
 
+## 🖥 &nbsp;Rewards 📘
+
+![](https://github-profile-trophy.vercel.app/?username=leleo9&theme=dracula&no-frame=false&no-bg=false&margin-w=4)

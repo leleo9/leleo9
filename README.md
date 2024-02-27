@@ -1,4 +1,5 @@
-![Black and Blue Animated Gamer Twitch Banner (1)](https://github.com/leleo9/leleo9/assets/131189530/f182414a-4337-4e9e-a300-9cbc94baef14)
+https://github.com/leleo9/leleo9/assets/131189530/531a29e7-c986-4f49-bece-927e586b3b9c
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Fortes+pontos+em+Data+Science;Leonardo+Braga)](https://git.io/typing-svg)
 
